@@ -1,0 +1,1 @@
+Proyecto escolar que soluciona los problemas de investigación de operaciones del método simplex
